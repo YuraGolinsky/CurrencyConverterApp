@@ -1,0 +1,10 @@
+D:\Фриланс\10805\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe.config
+D:\Фриланс\10805\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe
+D:\Фриланс\10805\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.pdb
+D:\Фриланс\10805\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.AssemblyReference.cache
+D:\Фриланс\10805\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.Form1.resources
+D:\Фриланс\10805\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.Properties.Resources.resources
+D:\Фриланс\10805\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.GenerateResource.cache
+D:\Фриланс\10805\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.CoreCompileInputs.cache
+D:\Фриланс\10805\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.exe
+D:\Фриланс\10805\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.pdb
